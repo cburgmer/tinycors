@@ -1,5 +1,7 @@
 Tiny CORS proxy to allow JS in the browser to access a remote service.
 
+You might also like https://github.com/gr2m/CORS-Proxy/.
+
 Example
 -------
 
