@@ -1,0 +1,16 @@
+{
+  "name": "tinycors",
+  "title": "Tiny CORS Proxy",
+  "version": "0.0.1",
+  "description": "A dead simple CORS proxy",
+  "keywords": ["CORS", "proxy"],
+  "homepage": "http://www.github.com/cburgmer/tinycors",
+  "licenses": [{"type": "MIT"}],
+  "bin": {
+    "tinycors": "tinycors.js"
+  },
+  "dependencies": {
+    "http-proxy": "0.10.x",
+    "optimist": "0.3.x"
+  }
+}
