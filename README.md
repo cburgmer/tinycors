@@ -1,6 +1,9 @@
 Tiny CORS proxy to allow JS in the browser to access a remote service.
 
-You might also like https://github.com/gr2m/CORS-Proxy/.
+You might also like 
+    
+  - [Make-CORS-y](https://github.com/jRiest/Make-CORS-y), or
+  - [CORS-Proxy](https://github.com/gr2m/CORS-Proxy/).
 
 Example
 -------
