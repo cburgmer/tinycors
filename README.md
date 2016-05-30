@@ -18,10 +18,6 @@ Now (using jQuery) try a
 
 Install
 -------
-First install npm
-
-    $ curl https://npmjs.org/install.sh | sh
-
-Then tinycors
+With Node.js and npm installed:
 
     $ npm install -g tinycors
